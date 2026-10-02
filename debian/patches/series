@@ -99,3 +99,4 @@
 0099-fix-qsv-av1-decoder-exporting-hdr-side-data.patch
 0100-backport-trim-bitstream-filter.patch
 0101-ac4dec-reject-damaged-frames-instead-of-asserting.patch
+0102-ac4dec-reset-decoder-on-errors-and-out-of-range-output.patch
